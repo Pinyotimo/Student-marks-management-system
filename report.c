@@ -76,5 +76,9 @@ int main() {
     printf("\nGrade in English: %s\n", student1[0].grade);
     printf("Grade in Mathematics: %s\n", student1[2].grade);
 
-    return 0;
+return 0;
 }
+
+
+
+
